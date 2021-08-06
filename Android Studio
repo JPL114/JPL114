@@ -1,6 +1,9 @@
-What does Arctic Fox mean? 
-- Android Studio recently migrated to a year-based versioning, inline with the IntelliJ version system. 
-- So when we say Android Studio 2020.3.1 the middle digit ".3" is the Intellij major version and the last digit ".1" is the studio major version.
-- Each release also has its own code name that alphabetically represents the studio major version. So for ".1" the letter would be "A." 
-- And there we have it! 
-- #Android Studio Arctic Fox! 
+# Android Studio recently migrated to a year-based versioning, inline with the IntelliJ version system. 
+   
+# So when we say Android Studio 2020.3.1 the middle digit ".3" is the Intellij major version and the last digit ".1" is the studio major version.
+   
+# Each release also has its own code name that alphabetically represents the studio major version. So for ".1" the letter would be "A." 
+
+# And there we have it! 
+   
+# Android Studio Arctic Fox!
